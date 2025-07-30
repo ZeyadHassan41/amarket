@@ -48,6 +48,6 @@ Add your domain to ALLOWED_HOSTS in settings.py
 
 Reload the web app from the PythonAnywhere Web tab
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 Zeyad Hassan
-GitHub | LinkedIn
+(GitHub)[https://github.com/ZeyadHassan41] | (LinkedIn)[https://www.linkedin.com/in/zeyad-hassan-907b7a244/]
