@@ -12,7 +12,7 @@ Amarket is a Django-based web application for managing an online marketplace. It
 - Media handling with Django
 - Responsive templates using Tailwind CSS (or Bootstrap if applied)
 
-## 🏗 Project Structure
+## Project Structure
 amarket/
 │
 ├── amarket/ # Project configuration (settings, URLs, etc.)
