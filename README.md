@@ -29,10 +29,8 @@ yaml
 Copy
 Edit
 
-## ⚙️ Installation & Setup
-
-1. **Clone the repo**:
-
+## ⚙Installation & Setup
+**Clone the repo**:
 ```
 git clone https://github.com/ZeyadHassan41/amarket.git
 cd amarket
